@@ -8,9 +8,10 @@
 
 
 
-   travisㅤㅤㅤㅤㅤor.ㅤㅤㅤㅤㅤcage.
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
-17ㅤㅤㅤsignㅤmyㅤata;;  https://drfunkbeat.atabook.org
+travisㅤㅤㅤㅤㅤor.ㅤㅤㅤㅤㅤcage.
+
+
+17ㅤㅤㅤsignㅤmy [ata!}(https://drfunkbeat.atabook.org)
 
 
 
