@@ -9,12 +9,12 @@
 
 
 <div align="center">
-  travisㅤㅤㅤㅤㅤor.ㅤㅤㅤㅤㅤcage.
+  travisㅤㅤㅤㅤㅤor.ㅤㅤㅤㅤㅤcage,ㅤㅤㅤㅤㅤㅤ17.
 </div>
 
 
 <div align="center">
-  17,ㅤㅤㅤ[sign my ata]: https://drfunkbeat.atabook.org
+[sign my ata]: https://drfunkbeat.atabook.org
 </div>
 
 
