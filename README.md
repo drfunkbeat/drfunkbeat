@@ -1,13 +1,15 @@
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
-<img width="1089" height="426" alt="githubdivider1" src="https://github.com/user-attachments/assets/654982bf-fddb-44bc-9ed8-6fa7614e5326" />
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<img width="1089" height="426" alt="githubdivider1" src="https://github.com/user-attachments/assets/4f26e950-27d5-483d-97c1-6309c57bafc1" />
 
-<img width="1089" height="666" alt="github1" src="https://github.com/user-attachments/assets/099286ab-c9d4-463e-a510-44fcfd53346f" />
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ art      by      Flip_xxxd      on      twt.
+<img width="1089" height="666" alt="github" src="https://github.com/user-attachments/assets/4eab363e-e94a-4a50-ac6d-e6d2cc2de9fd" />
 
 
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ artㅤㅤㅤㅤbyㅤㅤㅤㅤFlip_xxxdㅤㅤㅤㅤonㅤㅤㅤㅤtwt.
 
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤtravisㅤㅤㅤㅤ╱ㅤㅤㅤㅤcage.ㅤㅤㅤㅤㅤㅤㅤ17.
+
+
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤtravisㅤㅤㅤㅤ╱ㅤㅤㅤㅤcage.ㅤㅤㅤㅤㅤㅤㅤ17.
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ     sign        my       [ata!](https://drfunkbeat.atabook.org)
 
 
-<img width="1089" height="426" alt="githubdivider2" src="https://github.com/user-attachments/assets/f5d72b90-a11d-4659-a5c5-b6ca184e55e3" />
+<img width="1089" height="426" alt="githubdivider2" src="https://github.com/user-attachments/assets/479abd27-f5d4-43fa-b77d-87f1a8397958" />
+
