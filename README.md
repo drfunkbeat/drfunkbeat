@@ -8,10 +8,14 @@
 
 
 
-travisㅤㅤㅤㅤㅤor.ㅤㅤㅤㅤㅤcage.
+<div style="text-align: justify; text-justify: inter-word;">
+   travisㅤㅤㅤㅤㅤor.ㅤㅤㅤㅤㅤcage.
+</div>
 
 
-17ㅤㅤㅤsignㅤmy [ata!}(https://drfunkbeat.atabook.org)
+<div style="text-align: justify; text-justify: inter-word;">
+   17ㅤㅤㅤsignㅤmy [ata!](https://drfunkbeat.atabook.org)
+</div>
 
 
 
