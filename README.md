@@ -1,7 +1,3 @@
-div {
-  text-align: justify;
-  text-justify: inter-word;
-}
 <p align="center">
   <img src="https://github.com/user-attachments/assets/2781141c-e54f-4481-8bb7-aaa40261eaa0" width="600">
 </p>
@@ -11,12 +7,18 @@ div {
 </p>
 
 
-
+div {
+  text-align: justify;
+  text-justify: inter-word;
+}
 <div style="text-align: justify; text-justify: inter-word;">
    travisㅤㅤㅤㅤㅤor.ㅤㅤㅤㅤㅤcage.
 </div>
 
-
+div {
+  text-align: justify;
+  text-justify: inter-word;
+}
 <div style="text-align: justify; text-justify: inter-word;">
    17ㅤㅤㅤ[sign my ata](https://drfunkbeat.atabook.org)
 </div>
