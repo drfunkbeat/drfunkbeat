@@ -9,8 +9,10 @@
 
 
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤtravisㅤㅤㅤㅤㅤor.ㅤㅤㅤㅤㅤcage.
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ17ㅤㅤㅤsignㅤmyㅤ[ata!](https://drfunkbeat.atabook.org)
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ askㅤㅤ4ㅤㅤsocials.
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ17ㅤㅤㅤsignㅤmyㅤ[ata!](https://drfunkbeat.atabook.org)
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ 
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤaskㅤㅤ4ㅤㅤsocials.
 
 
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ┈┈┈┈┈┈┈ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤmainly  on  safe  server  #1,  near  bakery.
