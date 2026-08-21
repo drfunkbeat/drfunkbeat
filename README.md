@@ -8,13 +8,19 @@
 
 
 
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤtravisㅤㅤㅤㅤㅤor.ㅤㅤㅤㅤㅤcage.
+<p style="text-align: center;">
+   travisㅤㅤㅤㅤㅤor.ㅤㅤㅤㅤㅤcage.
+</p>
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ17ㅤㅤㅤsignㅤmyㅤ[ata!](https://drfunkbeat.atabook.org)
+<p style="text-align: center;">
+   17ㅤㅤㅤsignㅤmyㅤ[ata!](https://drfunkbeat.atabook.org)
+</p>
 
 
 
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ┈┈┈┈┈┈┈ㅤㅤㅤㅤㅤㅤㅤㅤㅤask  4  socials...ㅤmainly  on  safe  server  #1,  near  bakery.
+<p style="text-align: center;">
+   ┈┈┈┈┈┈┈ㅤㅤㅤㅤㅤㅤㅤㅤㅤask  4  socials...ㅤmainly  on  safe  server  #1,  near  bakery.
+</p>
 
 
 
