@@ -6,7 +6,15 @@
   <img src="https://github.com/user-attachments/assets/544dcfa4-8810-4df7-a4b4-e9370e02f1a9" width="600">
 </p>
 
-text text
+
+
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤtravisㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤor.ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤcage.
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ17ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤsignㅤㅤmyㅤㅤ[ata!](https://drfunkbeat.atabook.org)
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤaskㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ4ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤsocials.
+
+
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤmainly  on  safe  server  #1,  near  bakery.
+
 
 
 <p align="center">
