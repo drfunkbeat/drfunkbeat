@@ -1,3 +1,7 @@
+div {
+  text-align: justify;
+  text-justify: inter-word;
+}
 <p align="center">
   <img src="https://github.com/user-attachments/assets/2781141c-e54f-4481-8bb7-aaa40261eaa0" width="600">
 </p>
@@ -14,7 +18,7 @@
 
 
 <div style="text-align: justify; text-justify: inter-word;">
-   17ㅤㅤㅤsignㅤmy [ata!](https://drfunkbeat.atabook.org)
+   17ㅤㅤㅤ[sign my ata](https://drfunkbeat.atabook.org)
 </div>
 
 
