@@ -14,7 +14,7 @@
 
 
 <div align="center">
-[sign my ata]: https://drfunkbeat.atabook.org
+[sign my ata]([https://pages.github.com/](https://drfunkbeat.atabook.org))
 </div>
 
 
@@ -22,8 +22,6 @@
 <div align="center">
   ┈┈┈┈┈┈┈ㅤㅤㅤㅤㅤㅤㅤㅤㅤask  4  socials...ㅤmainly  on  safe  server  #1,  near  bakery.
 </div>
-┈┈┈┈┈┈┈ㅤㅤㅤㅤㅤㅤㅤㅤㅤask  4  socials...ㅤmainly  on  safe  server  #1,  near  bakery.
-
 
 
 <p align="center">
