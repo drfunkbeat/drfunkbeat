@@ -14,7 +14,7 @@
 
 
 <div align="center">
-[sign my ata]([https://pages.github.com/](https://drfunkbeat.atabook.org))
+[sign my ata](https://drfunkbeat.atabook.org)
 </div>
 
 
