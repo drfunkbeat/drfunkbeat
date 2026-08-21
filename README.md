@@ -13,7 +13,7 @@
 </p>
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 <p style="text-align: center;">
-   17ㅤㅤㅤsignㅤmyㅤ[ata!](https://drfunkbeat.atabook.org)
+   17ㅤㅤㅤsignㅤmyㅤata;;  https://drfunkbeat.atabook.org
   
 </p>
 
