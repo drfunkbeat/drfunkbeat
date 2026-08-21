@@ -14,11 +14,14 @@
 
 
 <div align="center">
-  17,ㅤㅤㅤ[sign my ata](https://drfunkbeat.atabook.org)
+  17,ㅤㅤㅤ[sign my ata][https://drfunkbeat.atabook.org]
 </div>
 
 
 
+<div align="center">
+  ┈┈┈┈┈┈┈ㅤㅤㅤㅤㅤㅤㅤㅤㅤask  4  socials...ㅤmainly  on  safe  server  #1,  near  bakery.
+</div>
 ┈┈┈┈┈┈┈ㅤㅤㅤㅤㅤㅤㅤㅤㅤask  4  socials...ㅤmainly  on  safe  server  #1,  near  bakery.
 
 
