@@ -1,3 +1,5 @@
+<p align="center">
+  <img width="1089" height="426" alt="githubdivider1" src="https://github.com/user-attachments/assets/2781141c-e54f-4481-8bb7-aaa40261eaa0" />
+</p>
 
-<img src="[https://github.com](https://github.com/user-attachments/assets/c54e32d9-224d-476c-b5a4-ea5fcdcc79d3)" width="300" alt="githubdivider1">
 
