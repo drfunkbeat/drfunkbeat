@@ -1,16 +1,13 @@
-## Hi there 👋
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+<img width="3267" height="1280" alt="githubdivider1" src="https://github.com/user-attachments/assets/654982bf-fddb-44bc-9ed8-6fa7614e5326" />
 
-<!--
-**drfunkbeat/drfunkbeat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="3267" height="2000" alt="github1" src="https://github.com/user-attachments/assets/099286ab-c9d4-463e-a510-44fcfd53346f" />
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ art      by      Flip_xxxd      on      twt.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤtravisㅤㅤㅤㅤ╱ㅤㅤㅤㅤcage.ㅤㅤㅤㅤㅤㅤㅤ17.
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ     sign        my       [ata!](https://drfunkbeat.atabook.org)
+
+
+<img width="3267" height="1280" alt="githubdivider2" src="https://github.com/user-attachments/assets/f5d72b90-a11d-4659-a5c5-b6ca184e55e3" />
