@@ -14,7 +14,7 @@
 
 
 <div align="center">
-  17,ㅤㅤㅤ[sign my ata][https://drfunkbeat.atabook.org]
+  17,ㅤㅤㅤ[sign my ata]: https://drfunkbeat.atabook.org
 </div>
 
 
