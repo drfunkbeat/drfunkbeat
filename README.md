@@ -8,10 +8,14 @@
 
 
 
-<div>travisㅤㅤㅤㅤㅤor.ㅤㅤㅤㅤㅤcage.</div>
+<div align="center">
+  travisㅤㅤㅤㅤㅤor.ㅤㅤㅤㅤㅤcage.
+</div>
 
 
-<div>17,ㅤㅤㅤ[sign my ata](https://drfunkbeat.atabook.org) </div>
+<div align="center">
+  17,ㅤㅤㅤ[sign my ata](https://drfunkbeat.atabook.org)
+</div>
 
 
 
