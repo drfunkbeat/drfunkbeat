@@ -7,21 +7,13 @@
 </p>
 
 
-div {
-  text-align: justify;
-  text-justify: inter-word;
-}
-<div style="text-align: justify; text-justify: inter-word;">
-   travisㅤㅤㅤㅤㅤor.ㅤㅤㅤㅤㅤcage.
-</div>
 
-div {
-  text-align: justify;
-  text-justify: inter-word;
-}
 <div style="text-align: justify; text-justify: inter-word;">
-   17ㅤㅤㅤ[sign my ata](https://drfunkbeat.atabook.org)
-</div>
+   travisㅤㅤㅤㅤㅤor.ㅤㅤㅤㅤㅤcage. </div>
+
+
+<div style="text-align: justify; text-justify: inter-word;">
+   17ㅤㅤㅤ[sign my ata](https://drfunkbeat.atabook.org) </div>
 
 
 
@@ -33,5 +25,18 @@ div {
   <img src="https://github.com/user-attachments/assets/0c050226-f558-421c-8921-391d439abf35" width="600">
 </p
 
+
+
+div {
+  text-align: justify;
+  text-justify: inter-word;
+}
+</style>
+</head>
+<body>
+
+<h1>The text-justify Property</h1>
+
+<div>test'</div>
 
 
