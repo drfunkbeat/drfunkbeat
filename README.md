@@ -8,20 +8,13 @@
 
 
 
-<p style="text-align: right;">
    travisㅤㅤㅤㅤㅤor.ㅤㅤㅤㅤㅤcage.
-</p>
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
-<p style="text-align: right;">
-   17ㅤㅤㅤsignㅤmyㅤata;;  https://drfunkbeat.atabook.org
-  
-</p>
+17ㅤㅤㅤsignㅤmyㅤata;;  https://drfunkbeat.atabook.org
 
 
 
-<p style="text-align: right;">
-   ┈┈┈┈┈┈┈ㅤㅤㅤㅤㅤㅤㅤㅤㅤask  4  socials...ㅤmainly  on  safe  server  #1,  near  bakery.
-</p>
+┈┈┈┈┈┈┈ㅤㅤㅤㅤㅤㅤㅤㅤㅤask  4  socials...ㅤmainly  on  safe  server  #1,  near  bakery.
 
 
 
