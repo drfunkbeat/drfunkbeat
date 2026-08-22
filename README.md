@@ -21,7 +21,7 @@
 ㅤㅤ
 ㅤㅤ
 <div align="center">
-  bmfㅤㅤㅤifㅤㅤyouㅤㅤlikeㅤㅤrblxㅤㅤargsㅤㅤ/ㅤㅤtmirb
+  bmfㅤㅤifㅤㅤyouㅤㅤlikeㅤㅤrblxㅤㅤ^,^
 </div>
 ㅤㅤㅤ
 ㅤㅤㅤ
