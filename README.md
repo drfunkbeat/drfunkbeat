@@ -4,7 +4,7 @@
 ㅤㅤ
 ㅤㅤ
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6B1738&width=435&lines=make+me+normal+next+time%2C+god.;i+want+to+be+normal.;why+does+it+have+to+be+me+with+the+screwed-up+brain%3F" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6B1738&width=435&lines=make+me+normal+next+time%2C+god.;i+want+to+be+normal.;why+does+it+have+to+be+me+with+the--;--screwed-up+brain%3F" alt="Typing SVG" /></a>
 </p>
 
 ㅤㅤ
