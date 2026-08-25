@@ -29,13 +29,6 @@
 <div align="center">
   bmfㅤㅤifㅤㅤyouㅤㅤlikeㅤㅤrblxㅤㅤ^,^
 </div>
-ㅤㅤㅤ
-ㅤㅤㅤ
-ㅤㅤㅤ
-ㅤㅤㅤ
-<div align="center">
-[before  you  interact].
-  </div>
   ㅤㅤㅤ
 ㅤㅤㅤ
 ㅤㅤㅤ
@@ -44,6 +37,7 @@
   ┈┈┈┈┈┈┈ㅤㅤㅤㅤㅤㅤㅤㅤㅤask  4  socials...ㅤmainly  on  safe  server  #1,  near  bakery.
 </div>
 
+[before  you  interact].
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0c050226-f558-421c-8921-391d439abf35" width="600">
