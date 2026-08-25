@@ -34,7 +34,7 @@
 ㅤㅤㅤ
 ㅤㅤㅤ
 <div align="center">
-[before  you  interact.]
+[before  you  interact].
   </div>
   ㅤㅤㅤ
 ㅤㅤㅤ
@@ -50,4 +50,4 @@
 </p
 
 
-[before  you  interact.]: https://github.com/drfunkbeat/byf.
+[before  you  interact]: https://github.com/drfunkbeat/byf.
