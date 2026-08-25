@@ -36,9 +36,13 @@
 <div align="center">
   ┈┈┈┈┈┈┈ㅤㅤㅤㅤㅤㅤㅤㅤㅤask  4  socials...ㅤmainly  on  safe  server  #1,  near  bakery.
 </div>
-
+  ㅤㅤㅤ
+ㅤㅤㅤ
+ㅤㅤㅤ
+ㅤㅤㅤ
 [before  you  interact].
 
+ㅤㅤㅤ
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0c050226-f558-421c-8921-391d439abf35" width="600">
 </p
