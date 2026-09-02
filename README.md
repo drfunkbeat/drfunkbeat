@@ -27,7 +27,7 @@
 ㅤㅤ
 ㅤㅤ
 <div align="center">
-  skins  with  🎁  in  front  of  it  are  not  made  by  me!  they  were  gifted  to  me
+  guns.lol/godcoil
 </div>
   ㅤㅤㅤ
 ㅤㅤㅤ
