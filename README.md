@@ -27,7 +27,7 @@
 ㅤㅤ
 ㅤㅤ
 <div align="center">
-  bmfㅤㅤifㅤㅤyouㅤㅤlikeㅤㅤrblxㅤㅤ^,^
+  skins  with  🎁  in  front  of  it  are  not  made  by  me!  they  were  gifted  to  me
 </div>
   ㅤㅤㅤ
 ㅤㅤㅤ
