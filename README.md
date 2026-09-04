@@ -27,7 +27,7 @@
 ㅤㅤ
 ㅤㅤ
 <div align="center">
-  guns.lol/godcoil
+  c  +  h   freely!
 </div>
   ㅤㅤㅤ
 ㅤㅤㅤ
