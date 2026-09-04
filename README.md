@@ -41,7 +41,7 @@
 ㅤㅤㅤ
 ㅤㅤㅤ
 
-[before  you  interact].ㅤㅤㅤㅤㅤㅤㅤㅤㅤ[@ship-town] ^,^
+[before  you  interact].ㅤㅤㅤㅤㅤㅤㅤㅤㅤ[＠ship-town] ^,^
 
 ㅤㅤㅤ
 <p align="center">
@@ -50,4 +50,4 @@
 
 
 [before  you  interact]: https://github.com/drfunkbeat/byf.
-[@ship-town]: https://github.com/ship-town
+[＠ship-town]: https://github.com/ship-town
