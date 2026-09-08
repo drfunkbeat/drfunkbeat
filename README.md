@@ -41,7 +41,7 @@
 ㅤㅤㅤ
 ㅤㅤㅤ
 
-[before  you  interact].ㅤㅤㅤㅤㅤㅤㅤㅤㅤ[＠ship-town],  [@pt-friendships]  (<< I LOVE MY DUO) ^,^
+[before  you  interact].ㅤㅤㅤㅤㅤㅤㅤㅤㅤ[＠ship-town],  [@pt-friendships]  (<< I LOVE MY DUO),  [@pt-heavyfictkin] ^,^
 
 ㅤㅤㅤ
 <p align="center">
@@ -52,3 +52,4 @@
 [before  you  interact]: https://github.com/drfunkbeat/byf.
 [＠ship-town]: https://github.com/ship-town
 [@pt-friendships]: https://github.com/pt-friendships
+[@pt-heavyfictkin]: https://github.com/pt-heavyfictkin
