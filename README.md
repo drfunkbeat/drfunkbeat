@@ -42,16 +42,17 @@
 ㅤㅤㅤ
 
 [before  you  interact].
-ㅤㅤ
-ㅤㅤ
-[＠ship-town],  [@pt-friendships]  (<< I LOVE MY DUO),  [@pt-heavyfictkin],  [@ponytowns-rewards],  [@pt-ship-nominations] ^,^
 
 ㅤㅤㅤ
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0c050226-f558-421c-8921-391d439abf35" width="600">
 </p
-
-
+ㅤㅤ
+ㅤㅤ
+[＠ship-town],  [@pt-friendships]  (<< I LOVE MY DUO),  [@pt-heavyfictkin],  [@ponytowns-rewards],  [@pt-ship-nominations] ^,^
+ㅤㅤ
+ㅤㅤ
+                                      
 [before  you  interact]: https://github.com/drfunkbeat/byf.
 [＠ship-town]: https://github.com/ship-town
 [@pt-friendships]: https://github.com/pt-friendships
