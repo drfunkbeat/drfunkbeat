@@ -41,7 +41,8 @@
 ㅤㅤㅤ
 ㅤㅤㅤ
 
-[before  you  interact].ㅤㅤㅤㅤㅤㅤㅤㅤㅤ[＠ship-town],  [@pt-friendships]  (<< I LOVE MY DUO),  [@pt-heavyfictkin],  [@ponytowns-rewards],  [@pt-ship-nominations] ^,^
+[before  you  interact].ㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+[＠ship-town],  [@pt-friendships]  (<< I LOVE MY DUO),  [@pt-heavyfictkin],  [@ponytowns-rewards],  [@pt-ship-nominations] ^,^
 
 ㅤㅤㅤ
 <p align="center">
