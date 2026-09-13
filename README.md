@@ -27,7 +27,9 @@
 ㅤㅤ
 ㅤㅤ
 <div align="center">
-  c  +  h   freely!
+  
+  [＠ship-town],  [@pt-friendships]  (<< I LOVE MY DUO),  [@pt-heavyfictkin],  [@ponytowns-rewards],  [@pt-ship-nominations] ^,^
+  
 </div>
   ㅤㅤㅤ
 ㅤㅤㅤ
@@ -47,9 +49,6 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0c050226-f558-421c-8921-391d439abf35" width="600">
 </p
-ㅤㅤ
-ㅤㅤ
-[＠ship-town],  [@pt-friendships]  (<< I LOVE MY DUO),  [@pt-heavyfictkin],  [@ponytowns-rewards],  [@pt-ship-nominations] ^,^
 ㅤㅤ
 ㅤㅤ
                                       
