@@ -36,7 +36,7 @@
 ㅤㅤㅤ
 ㅤㅤㅤ
 <div align="center">
-  ┈┈┈┈┈┈┈ㅤㅤㅤㅤㅤㅤㅤㅤㅤask  4  socials...ㅤmainly  on  safe  server  #1,  near  bakery.
+  ┈┈┈┈┈┈┈ㅤㅤㅤㅤㅤㅤㅤㅤㅤask  4  socials...ㅤmainly  on  safe  server  #1,  near  bakery.  c+h  freely!
 </div>
   ㅤㅤㅤ
 ㅤㅤㅤ
